@@ -70,4 +70,3 @@ Easily extendable to add:
 
 ---
 
-## 📂 Project Structure
